@@ -51,6 +51,11 @@ export class ItemDetailsComponent implements OnInit {
         this.GetItems()
         })
   }
+  removeItem(i)
+  {
+    debugger;
+    this.divs.splice(i,1);
+  }
   // deleteProduct(id)
   // {
   //   this.service.deleteProduct(id).subscribe(res=>{

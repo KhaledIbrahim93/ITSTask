@@ -3,7 +3,7 @@
 <!-- <div class=""> Step 1</div> -->
 <div>
 
-  <span style="float: left; margin-left: 2%;"  *ngFor="let div of divs; let i = index" id="pointer">Step{{i}}</span>
+  <span style="float: left; margin-left: 2%;"  (click)="removeItem(i)" *ngFor="let div of divs; let i = index" id="pointer">Step{{i}} -</span>
 
   <button (click)="createDiv()" id="btnStyle">Add +</button>
 </div>
