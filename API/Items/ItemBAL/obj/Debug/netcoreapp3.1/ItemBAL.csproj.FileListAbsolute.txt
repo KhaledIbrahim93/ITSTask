@@ -1,0 +1,12 @@
+D:\Demos\ITS Task\Items\ItemBAL\bin\Debug\netcoreapp3.1\ItemBAL.deps.json
+D:\Demos\ITS Task\Items\ItemBAL\bin\Debug\netcoreapp3.1\ItemBAL.dll
+D:\Demos\ITS Task\Items\ItemBAL\bin\Debug\netcoreapp3.1\ItemBAL.pdb
+D:\Demos\ITS Task\Items\ItemBAL\bin\Debug\netcoreapp3.1\ItemsDAL.dll
+D:\Demos\ITS Task\Items\ItemBAL\bin\Debug\netcoreapp3.1\ItemsDAL.pdb
+D:\Demos\ITS Task\Items\ItemBAL\obj\Debug\netcoreapp3.1\ItemBAL.csprojAssemblyReference.cache
+D:\Demos\ITS Task\Items\ItemBAL\obj\Debug\netcoreapp3.1\ItemBAL.AssemblyInfoInputs.cache
+D:\Demos\ITS Task\Items\ItemBAL\obj\Debug\netcoreapp3.1\ItemBAL.AssemblyInfo.cs
+D:\Demos\ITS Task\Items\ItemBAL\obj\Debug\netcoreapp3.1\ItemBAL.csproj.CoreCompileInputs.cache
+D:\Demos\ITS Task\Items\ItemBAL\obj\Debug\netcoreapp3.1\ItemBAL.csproj.CopyComplete
+D:\Demos\ITS Task\Items\ItemBAL\obj\Debug\netcoreapp3.1\ItemBAL.dll
+D:\Demos\ITS Task\Items\ItemBAL\obj\Debug\netcoreapp3.1\ItemBAL.pdb

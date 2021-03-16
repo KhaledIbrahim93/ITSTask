@@ -1,0 +1,12 @@
+D:\Demos\ITS Task\Items\ItemsDAL\bin\Debug\netcoreapp3.1\ItemsDAL.deps.json
+D:\Demos\ITS Task\Items\ItemsDAL\bin\Debug\netcoreapp3.1\ItemsDAL.runtimeconfig.json
+D:\Demos\ITS Task\Items\ItemsDAL\bin\Debug\netcoreapp3.1\ItemsDAL.runtimeconfig.dev.json
+D:\Demos\ITS Task\Items\ItemsDAL\bin\Debug\netcoreapp3.1\ItemsDAL.dll
+D:\Demos\ITS Task\Items\ItemsDAL\bin\Debug\netcoreapp3.1\ItemsDAL.pdb
+D:\Demos\ITS Task\Items\ItemsDAL\obj\Debug\netcoreapp3.1\ItemsDAL.csprojAssemblyReference.cache
+D:\Demos\ITS Task\Items\ItemsDAL\obj\Debug\netcoreapp3.1\ItemsDAL.AssemblyInfoInputs.cache
+D:\Demos\ITS Task\Items\ItemsDAL\obj\Debug\netcoreapp3.1\ItemsDAL.AssemblyInfo.cs
+D:\Demos\ITS Task\Items\ItemsDAL\obj\Debug\netcoreapp3.1\ItemsDAL.csproj.CoreCompileInputs.cache
+D:\Demos\ITS Task\Items\ItemsDAL\obj\Debug\netcoreapp3.1\ItemsDAL.dll
+D:\Demos\ITS Task\Items\ItemsDAL\obj\Debug\netcoreapp3.1\ItemsDAL.pdb
+D:\Demos\ITS Task\Items\ItemsDAL\obj\Debug\netcoreapp3.1\ItemsDAL.genruntimeconfig.cache
