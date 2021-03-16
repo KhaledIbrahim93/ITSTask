@@ -1,0 +1,53 @@
+
+
+<!-- <div class=""> Step 1</div> -->
+<div>
+
+  <span style="float: left; margin-left: 2%;"  *ngFor="let div of divs; let i = index" id="pointer">Step{{i}}</span>
+
+  <button (click)="createDiv()" id="btnStyle">Add +</button>
+</div>
+<div class="container">
+  <div>
+    <div style="margin: 2%;" *ngFor="let div of divs; let i = index">
+      <p>
+        <span style="    margin-left: 5%;
+        width: 11%;
+        background-color: #3f51b5;
+        font-size: 13px;
+        color: white;
+        height: 44px;
+        border-radius: 6%;
+        text-align: center;
+        padding: 20px;">
+          Item {{i}}
+        </span>
+      </p>
+      <p >
+        <span  class="underline"></span>
+      </p>
+      <div style="margin-left: 5%;">
+        <p style="font-size: 18px; color: #3f51b5">Title :{{div.title}}</p>
+        <p style="font-size: 18px; color: #3f51b5">Description :{{div.description}}</p>
+      </div>
+
+    </div>
+   </div>
+  <form>
+    <div class="form-group" style="width: 30%;">
+      <label for="usr">Title:</label>
+      <input type="text" class="form-control" id="usr" #title>
+    </div>
+    <div class="form-group" style="width: 30%;">
+      <label for="pwd">Description:</label>
+      <input type="text" class="form-control" id="pwd" #desc>
+    </div>
+    <div  class="form-group">
+      <button style="width: 20%; height: 42px;" (click)="AddItem(title,desc)" type="button" class="btn btn-info">Save</button>
+    </div>
+  </form>
+</div>
+
+
+
+
